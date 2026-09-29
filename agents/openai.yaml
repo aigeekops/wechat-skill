@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Skill"
+  short_description: "通过 Mac 与 iPhone 原生镜像操作微信消息、朋友圈和公众号"
+  default_prompt: "使用 $wechat-skill，通过 Mac 的 iPhone 镜像完成我的微信操作。"
